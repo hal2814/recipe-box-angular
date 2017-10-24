@@ -1,0 +1,15 @@
+body {
+  background-color: cadetblue;
+  color: #f2ad37;
+}
+
+.btn {
+  background-color: white;
+  margin-top: 6px;
+}
+
+img {
+  margin: auto;
+  align: middle;
+  padding: 20px;
+}
